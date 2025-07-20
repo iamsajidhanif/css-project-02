@@ -1,0 +1,130 @@
+* {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  display: flex;
+  /* border: 2px solid green ; */
+  margin: 100px auto;
+  margin-left: 200px;
+
+}
+
+td {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 12px;
+  color: white;
+  border: 2px solid white;
+}
+
+.blank {
+  border: none;
+}
+
+.blue {
+  background-color: #E2EEFF;
+  color: #0060F0;
+}
+
+.blue:hover {
+  border-radius: 10px;
+  border: 2px solid gray;
+}
+
+sup {
+  position: relative;
+  top: 2px;
+  left: -17px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.red {
+  background-color: #FFE7E7;
+  color: #D60024;
+}
+
+.red:hover {
+  border-radius: 10px;
+  border: 2px solid gray;
+}
+
+
+.forestgreen {
+  background-color: #D8F8FF;
+  color: #00758C;
+
+}
+
+.forestgreen:hover {
+  border-radius: 10px;
+  border: 2px solid gray;
+}
+
+
+.yellow {
+  background-color: #FEF7E0;
+  color: #985D09;
+}
+
+.yellow:hover {
+  border-radius: 10px;
+  border: 2px solid gray;
+}
+
+.green {
+  background-color: #D6F9E8;
+  color: #1A451D;
+}
+
+.green:hover {
+  border-radius: 10px;
+  border: 2px solid gray;
+}
+
+.purple {
+  background-color: #F3E8FD;
+  color: #6232EC;
+}
+
+.purple:hover {
+  border-radius: 10px;
+  border: 2px solid gray;
+}
+
+.kimiblue {
+  background-color: #DFF3FF;
+  color: #003355;
+}
+
+.kimiblue:hover {
+  border-radius: 10px;
+  border: 2px solid gray;
+}
+
+.orange {
+  background-color: #FFE6D4;
+  color: #C73200;
+}
+
+.orange:hover {
+  border-radius: 10px;
+  border: 2px solid gray;
+}
+
+.gray {
+  background-color: #E7E7EA;
+  color: #3F374F;
+}
+
+.gray:hover {
+  border-radius: 10px;
+  border: 2px solid gray;
+}
