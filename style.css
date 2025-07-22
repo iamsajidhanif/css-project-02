@@ -4,6 +4,11 @@
   padding: 0;
 }
 
+h1 {
+  color: #6232EC;
+  text-align: center;
+}
+
 table {
   display: flex;
   /* border: 2px solid green ; */
